@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">S.E.N.S</string>
+    <string name="dont_have_an_account_sign_in">dont have an account sign in</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="loginn">loginn</string>
+    <string name="signed">signed</string>
+    <string name="already_have_an_account">already have an account</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="welcome">WELCOME</string>
+    <string name="logout">Logout</string>
+    <string name="view">view</string>
+    <string name="question">Is it important to learn sex education?</string>
+    <string name="ans"><![CDATA[Because of religious boundaries, many communities can’t give sex ed to teens. Providing Sex Education to adolescents is as important as teaching the other topic. It helps to navigate the relationship in teenagers. Because of inconsistent laws & policies too many youngsters are not getting precise sex education. However, sex education helps teenagers to know their bodies biologically.]]></string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="chat_with_us">Chat with us</string>
+    <string name="pre_teens">PRE-TEENS</string>
+    <string name="adult">Adult</string>
+    <string name="teen">Teen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_easy_chatgpt_y_it_out_now">Welcome to Easy ChatGPT\nTry it out now</string>
+    <string name="write_here">Write here</string>
+    <string name="blah">blah</string>
+    <string name="bot">bot</string>
+</resources>
