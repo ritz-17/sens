@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 
 class bot : AppCompatActivity() {
     private lateinit var webView: WebView
-    private val URL = "https://mediafiles.botpress.cloud/f638ca39-067e-4c7b-b506-001110de7b71/webchat/bot.html"
+    private val URL = "https://qmint.github.io/SeSay/"
 
     @SuppressLint("SetJavaScriptEnabled")
     override fun onCreate(savedInstanceState: Bundle?) {
